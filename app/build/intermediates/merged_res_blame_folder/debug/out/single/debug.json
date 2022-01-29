@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_secondminus.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\secondminus.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_1st_50.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_1st_50.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drreply.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\drreply.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_circled_2_50.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_circled_2_50.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_list_48.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_list_48.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btnmenuuser.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\btnmenuuser.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_adminhome.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_adminhome.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\box.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_tiers_main.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\tiers_main.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\font_basic.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\font\\basic.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_my_menu.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\menu\\my_menu.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yello.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\yello.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img2.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\img2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button1.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\custom_button1.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\my_row.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_adminupdate.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_adminupdate.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg3.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\green.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_button_custom.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\add_button_custom.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frstminus.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\frstminus.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_circled_3_50.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_circled_3_50.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drlock.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\drlock.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\photo.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_srilankafigures.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_srilankafigures.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_button_custom.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\delete_button_custom.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_covid_hd__1_.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\covid_hd__1_.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_covid_dailyupdates_admin.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_covid_dailyupdates_admin.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thirdminus.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\thirdminus.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user2.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\user2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_usermenu.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\menu\\main_usermenu.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_arrow_50.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_arrow_50.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frstplus.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\frstplus.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user1.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\user1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img4.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\img4.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_secondplus.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\secondplus.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drsettings.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\drsettings.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_circled_0_50.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_circled_0_50.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button2.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\custom_button2.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_bold.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\font\\quicksand_bold.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_adminmenu.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\menu\\main_adminmenu.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img3.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\img3.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_updates.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\updates.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_lockdown_dashboard.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_add_lockdown_dashboard.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_empty.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\ic_empty.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_screenshot_2021_09_22_182234.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\screenshot_2021_09_22_182234.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic2.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\pic2.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_menu_96.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_menu_96.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thidplus.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\thidplus.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button3.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\custom_button3.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_search_24.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_search_24.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purplebox.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\purplebox.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_update_button_custom.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\update_button_custom.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_list.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\layout_list.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_provinces.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_provinces.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_home_24.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_home_24.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drupdate.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\drupdate.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_province_wise.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_province_wise.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background4.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\background4.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drvaccine.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\drvaccine.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_upactivity.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_sign_upactivity.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img1.jpg.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\img1.jpg"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\anim\\anim.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icons8_search_24__1_.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\icons8_search_24__1_.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_headerid.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\headerid.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drhome_24.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\drawable\\drhome_24.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_third.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

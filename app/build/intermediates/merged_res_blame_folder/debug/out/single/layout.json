@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_adminupdate.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_adminupdate.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tiers_main.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\tiers_main.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_lockdown_dashboard.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_add_lockdown_dashboard.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_provinces.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_provinces.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\headerid.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\headerid.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_third.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_list.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\layout_list.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\my_row.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\my_row.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_upactivity.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_sign_upactivity.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_province_wise.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_province_wise.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_adminhome.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_adminhome.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_covid_dailyupdates_admin.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_covid_dailyupdates_admin.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\projects\\Android projects\\MADproject-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_srilankafigures.xml",
+        "source": "C:\\projects\\Android projects\\MADproject-main\\app\\src\\main\\res\\layout\\activity_srilankafigures.xml"
+    }
+]

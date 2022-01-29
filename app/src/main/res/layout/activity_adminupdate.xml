@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <Button
+        android:id="@+id/btndeleteUP"
+        android:layout_width="113dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="32dp"
+        android:text="Delete"
+        app:backgroundTint="#f85f6a"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btnupdateUP"
+        app:layout_constraintHorizontal_bias="0.22"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editVacSTUP"
+        app:layout_constraintVertical_bias="0.36" />
+
+    <EditText
+        android:id="@+id/editVacSTUP"
+        android:layout_width="300dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:hint="1st"
+        android:inputType="textPersonName"
+        android:textColor="#0C0A0A"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtVacSTUP" />
+
+    <TextView
+        android:id="@+id/txtVacSTUP"
+        android:layout_width="287dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/quicksand_bold"
+        android:text="Vaccine Status"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.228"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtVaccUP" />
+
+    <EditText
+        android:id="@+id/editVaccUP"
+        android:layout_width="300dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:hint="Astrazeneca"
+        android:inputType="textPersonName"
+        android:textColor="#0C0A0A"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtVaccUP" />
+
+    <EditText
+        android:id="@+id/editUserUP"
+        android:layout_width="300dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:hint="David Billa"
+        android:inputType="textPersonName"
+        android:textColor="#0C0A0A"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtUserUP" />
+
+    <TextView
+        android:id="@+id/txtUserUP"
+        android:layout_width="57dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/quicksand_bold"
+        android:text="User name"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.07"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtNICUP" />
+
+    <TextView
+        android:id="@+id/txtEmailUP"
+        android:layout_width="72dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/quicksand_bold"
+        android:text="Email"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.07"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtUserUP" />
+
+    <TextView
+        android:id="@+id/adminTextUP"
+        android:layout_width="104dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="116dp"
+        android:layout_marginEnd="16dp"
+        android:autoText="false"
+        android:background="@color/white"
+        android:fontFamily="@font/quicksand_bold"
+        android:text="Admin"
+        android:textColor="#35424a"
+        android:textSize="26sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2UP"
+        android:layout_width="85dp"
+        android:layout_height="88dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/screenshot_2021_09_22_182234" />
+
+    <ImageView
+        android:id="@+id/btnHomeUP"
+        android:layout_width="43dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="44dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/imageView2UP"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/icons8_home_24"
+        app:tint="#f85f6a" />
+
+    <TextView
+        android:id="@+id/txtNICUP"
+        android:layout_width="45dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/quicksand_bold"
+        android:text="NIC"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.07"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/adminTextUP" />
+
+    <TextView
+        android:id="@+id/txtVaccUP"
+        android:layout_width="287dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/quicksand_bold"
+        android:text="Vaccine Name"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.26"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtEmailUP" />
+
+    <EditText
+        android:id="@+id/editNICUP"
+        android:layout_width="300dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:hint="992221390Z"
+        android:inputType="textPersonName"
+        android:textColor="#0C0A0A"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtNICUP" />
+
+    <EditText
+        android:id="@+id/editEmailUP"
+        android:layout_width="300dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtEmailUP" />
+
+    <Button
+        android:id="@+id/btnupdateUP"
+        android:layout_width="113dp"
+        android:layout_height="55dp"
+        android:layout_marginEnd="44dp"
+        android:text="Update"
+        app:backgroundTint="#f85f6a"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editVacSTUP"
+        app:layout_constraintVertical_bias="0.36" />
+
+    <ImageButton
+        android:id="@+id/btnSearchUP"
+        android:layout_width="43dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="44dp"
+        android:background="@android:drawable/divider_horizontal_dim_dark"
+        app:layout_constraintEnd_toStartOf="@+id/imageView2UP"
+        app:layout_constraintHorizontal_bias="0.341"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/icons8_search_24__1_" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

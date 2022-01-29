@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/drhome_24" />
+
+        <item
+            android:id="@+id/nav_vaccine"
+            android:title="Apply Vaccine"
+            android:icon="@drawable/drvaccine"/>
+
+        <item
+            android:id="@+id/nav_updates"
+            android:title="Covid updates"
+            android:icon="@drawable/drupdate" />
+
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings"
+            android:icon="@drawable/drsettings" />
+        <item
+            android:id="@+id/nav_signout"
+            android:title="Sign out"
+            android:icon="@drawable/drreply" />
+
+    </group>
+
+        <item android:title="Lockdown details" android:icon="@drawable/drvaccine">
+            <menu>
+                <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_lockdownR"
+                    android:title=" Tiers and Rules" />
+                <item
+                    android:id="@+id/nav_lockdownDD"
+                    android:title="Downed Districs" />
+                <item
+                    android:id="@+id/nav_lockdownEO"
+                    android:title="E-pass online" />
+                <item
+                android:id="@+id/nav_lockdownEC"
+                android:title="E-Certificate" />
+                </group>
+            </menu>
+        </item>
+
+</menu>

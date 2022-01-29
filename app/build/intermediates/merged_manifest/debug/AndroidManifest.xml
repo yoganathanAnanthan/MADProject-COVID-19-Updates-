@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.corona_safe"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.CORONASafe.NoActionBar" >
+        <activity android:name="com.example.corona_safe.AddLockdownDashboard" />
+        <activity android:name="com.example.corona_safe.AddActivity" />
+        <activity android:name="com.example.corona_safe.UpdateActivity" />
+        <activity android:name="com.example.corona_safe.provinceWise" />
+        <activity
+            android:name="com.example.corona_safe.provinces"
+            android:exported="true" />
+        <activity
+            android:name="com.example.corona_safe.srilankafigures"
+            android:exported="true" />
+        <activity
+            android:name="com.example.corona_safe.covidDailyupdatesAdmin"
+            android:exported="true" />
+        <activity
+            android:name="com.example.corona_safe.HomeActivity"
+            android:exported="true"
+            android:label="Home"
+            android:theme="@style/Theme.CORONASafe.NoActionBar" />
+        <activity
+            android:name="com.example.corona_safe.AdminHomeActivity"
+            android:exported="true"
+            android:label="Admin Home"
+            android:theme="@style/Theme.CORONASafe.NoActionBar" />
+        <activity
+            android:name="com.example.corona_safe.AdminUpdateActivity"
+            android:exported="true"
+            android:label="Admin Update"
+            android:theme="@style/Theme.CORONASafe.NoActionBar" />
+        <activity
+            android:name="com.example.corona_safe.SignUPActivity"
+            android:exported="true"
+            android:label="SignUPActivity"
+            android:theme="@style/Theme.CORONASafe.NoActionBar" />
+        <activity
+            android:name="com.example.corona_safe.SignInActivity"
+            android:exported="true"
+            android:label="@string/title_activity_sign_in"
+            android:theme="@style/Theme.CORONASafe.NoActionBar" />
+        <activity
+            android:name="com.example.corona_safe.SettingsActivity"
+            android:exported="true"
+            android:label="SettingsActivity"
+            android:theme="@style/Theme.CORONASafe.NoActionBar" />
+        <activity
+            android:name="com.example.corona_safe.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.CORONASafe.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

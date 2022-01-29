@@ -1,0 +1,80 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CORONA-Safe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="todo">TODO</string>
+    <string name="btn_viewProvince">View Province Wise</string>
+    <string name="title">Province (SL)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_confirmed" />
+    <string name="et_deaths" />
+    <string name="et_recovered" />
+    <string name="btn_update">UPDATE</string>
+    <string name="etProvince" />
+    <string name="etConfirmed" />
+    <string name="etDeaths" />
+    <string name="etRecovered" />
+    <string name="add">ADD</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragments" tools:ignore="DuplicateDefinition">Hello blank fragment</string>
+    <string name="sub_heading">What are the rules in tier 1</string>
+    <string name="message">What are the rules in tier 1?\n\n
+        You can see people from different households both indoors and outdoors, but only in groups of up to 6 people.
+You should maintain social distancing from anyone not in your household or support bubble.
+There are no restrictions on travel or use of transport but you should still wear a face covering./n
+Avoid travelling to tier three areas unless where necessary for example for work, medical reasons, caring or education./n
+If you do travel to a tier 2 or tier 3 area you will need to follow the rules of that area while you are there./n
+There are no restrictions on staying overnight somewhere other than your house.n/ But you can only go away with those outside your household or support bubble in a group of up to 6.
+You should work from home where possible. Where this isn/t possible,/n workplaces should be coronavirus secure. Restaurants, pubs, cafés and other hospitality venues can be open. However, they must close by 11pm, with last orders at 10pm and provide table service.
+</string>
+    <string name="message2">What are the rules in tier 2?\n\n
+As in all other tiers, non-essential shops can open, as can gyms, hairdressers and other personal care businesses. Places of worship can open and weddings are allowed within local restrictions.
+
+Hospitality venues can stay open until 11pm – with last orders at 10pm – but only those that serve substantial meals can operate, while other pubs and bars have to close.
+
+Social mixing outside of households or support bubbles is not allowed indoors. The rule of six applies outdoors.
+
+Spectators are allowed to watch sport in tier 2, with a maximum crowd capacity outdoors of 50% of the capacity of the stadium or 2,000 people, whichever is smaller. Indoors, the maximum capacity is 1,000.
+
+Indoor entertainment venues, such as cinemas, casinos and bowling alleys, can open, but must close at 11pm.
+
+Everyone who can work from home should do so.
+
+You can continue to travel to venues that are open, or for reasons such as work or education, but you should reduce the number of journeys you make wherever possible.
+
+If you live in a tier 2 area, you must continue to follow tier 2 rules when you travel to a tier 1 area. However, avoid travel to or overnight stays in tier 3 areas other than where necessary.
+
+The government does not recommend that you travel from tier 2 into a tier 3 area, for example, to do Christmas shopping.</string>
+    <string name="message3">What are the rules in tier 3?\n\n
+Non-essential shops can open, as can gyms, hairdressers and other personal care businesses. Places of worship can open and weddings are allowed within local restrictions.
+
+Hospitality venues must close, except for delivery and takeaway service. In tier 3, hotels and other accommodation providers must also close, except for specific work purposes where people cannot return home.
+
+Outdoor sports, including golf and tennis, can continue in all tiers, as can amateur team sports such as football. Unlike the first two tiers, spectators cannot watch sport in tier 3.
+
+People must not meet socially indoors or in most outdoor places with anybody they do not live with, or who is not in their support bubble; this includes in any private garden or at most outdoor venues. At other outdoor spaces such as parks or beaches people must not socialise in groups of more than six.
+
+Everyone who can work from home should do so.
+
+You can travel within your area for work, education and purposes of providing care or medical assistance, but should avoid travelling outside your area and reduce the number of journeys you make wherever possible.
+
+People in all tiers are advised to stay local, and if you travel, your restrictions follow you. For example, if you live in a tier 3 area, you must continue to follow tier 3 rules even when you travel to a tier 1 or tier 2 area.
+
+You can find out which tier you live in here.
+
+The full government rules and guidance for tier 3 can be found here.</string>
+
+</resources>
